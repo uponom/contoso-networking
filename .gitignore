@@ -46,3 +46,4 @@ terraform.rc
 # planout
 
 backend_local.tf
+.terraform.lock.hcl
