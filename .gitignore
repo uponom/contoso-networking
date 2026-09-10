@@ -48,3 +48,4 @@ terraform.rc
 backend_local.tf
 .terraform.lock.hcl
 .DS_Store
+imports.tf
