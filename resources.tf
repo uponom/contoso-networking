@@ -20,7 +20,7 @@ locals {
     Environment   = var.environment
     BillingCode   = var.billing_code
     WorkspaceName = terraform.workspace
-    Owner         = "Anonymous"
+    Owner         = "Anonymous2"
   }
 }
 
