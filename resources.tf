@@ -20,6 +20,7 @@ locals {
     Environment   = var.environment
     BillingCode   = var.billing_code
     WorkspaceName = terraform.workspace
+    Owner         = "John Smith"
   }
 }
 
